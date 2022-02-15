@@ -54,7 +54,7 @@ CREATE TABLE atendimento (
     nome varchar(100),
     email varchar(200),
     data_do_atend date,
-    duvida varchar(600),    
+    duvida varchar(200),    
     satisfacao int
 );
 
